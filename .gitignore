@@ -1,0 +1,12 @@
+# Ignore AI agents, runtime and editor folders
+.agents/
+.cline/
+.vscode/
+.ollama/
+
+# OS/editor temp files
+*.swp
+*.swo
+*.bak
+.DS_Store
+
